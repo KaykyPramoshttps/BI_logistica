@@ -9,6 +9,9 @@
 <!-- EDITE: troque "Power BI" pela ferramenta que você usa (Tableau, Looker Studio, Metabase, Python...) -->
 
 ---
+<iframe title="Analise_Logistica" width="100%" height="600"
+  src="https://app.powerbi.com/view?r=eyJrIjoiNjk3OGFiMGMtYjM5Yi00ZWZlLTgzYmQtMDE2ZmQxMzQ0NDA5IiwidCI6IjFkYjljZTMzLWQ0MGEtNDQzMi04MGIxLWViZDM0NGNlYWFmMCJ9"
+  frameborder="0" allowFullScreen="true"></iframe>
 
 ## 📌 Sobre o projeto
 

@@ -16,11 +16,9 @@
 
 ## 📌 Sobre o projeto
 
-Descreva aqui, em 3 a 5 linhas:
+Este projeto é um dashboard de Business Intelligence que consolida indicadores de desempenho logístico — como OTIF (On Time In Full), % de entregas no prazo, % de entregas completas, ocorrências por motivo/responsabilidade e distribuição geográfica de entregas por cidade e estado. O painel foi criado como peça de portfólio, mas também pode ser usado por gestores e times de operações logística para acompanhar prazos, filiais e causas de atraso ao longo do tempo. Os dados foram estruturados em um modelo relacional com tabelas de Pedidos, Calendário e Medidas (DAX), permitindo filtros por período e por filial.
 
-- O que o projeto faz
-- Para quem ele foi feito (gestores, time de operações, portfólio...)
-- Qual a origem dos dados (planilhas, banco de dados, dataset público, dados simulados)
+<!-- EDITE: confirme a origem real dos dados (planilha, banco de dados, dataset público ou dados simulados) -->
 
 ## 🎯 Problema de negócio
 

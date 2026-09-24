@@ -47,8 +47,9 @@ Explique qual pergunta ou dor o dashboard resolve. Exemplos:
 
 ## 🖼 Prévia do dashboard
 
-[![Dashboard Logística](images/Dash_Logistica.png)](https://app.powerbi.com/view?r=eyJrIjoiNjk3OGFiMGMtYjM5Yi00ZWZlLTgzYmQtMDE2ZmQxMzQ0NDA5IiwidCI6IjFkYjljZTMzLWQ0MGEtNDQzMi04MGIxLWViZDM0NGNlYWFmMCJ9)
+[![Dashboard Logística](imagens/Dash_Logistica.png)](https://app.powerbi.com/view?r=eyJrIjoiNjk3OGFiMGMtYjM5Yi00ZWZlLTgzYmQtMDE2ZmQxMzQ0NDA5IiwidCI6IjFkYjljZTMzLWQ0MGEtNDQzMi04MGIxLWViZDM0NGNlYWFmMCJ9)
 
+> 👆 Clique na imagem para abrir o dashboard interativo.
 > 👆 Clique na imagem para abrir o dashboard interativo.
 
 ## 💡 Principais insights

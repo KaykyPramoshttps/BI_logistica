@@ -9,9 +9,10 @@
 <!-- EDITE: troque "Power BI" pela ferramenta que você usa (Tableau, Looker Studio, Metabase, Python...) -->
 
 ---
-<iframe title="Analise_Logistica" width="100%" height="600"
-  src="https://app.powerbi.com/view?r=eyJrIjoiNjk3OGFiMGMtYjM5Yi00ZWZlLTgzYmQtMDE2ZmQxMzQ0NDA5IiwidCI6IjFkYjljZTMzLWQ0MGEtNDQzMi04MGIxLWViZDM0NGNlYWFmMCJ9"
-  frameborder="0" allowFullScreen="true"></iframe>
+
+## 🔗 Acesse o dashboard online
+
+[![Abrir dashboard no Power BI](https://img.shields.io/badge/Abrir%20Dashboard-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNjk3OGFiMGMtYjM5Yi00ZWZlLTgzYmQtMDE2ZmQxMzQ0NDA5IiwidCI6IjFkYjljZTMzLWQ0MGEtNDQzMi04MGIxLWViZDM0NGNlYWFmMCJ9)
 
 ## 📌 Sobre o projeto
 
@@ -48,7 +49,12 @@ Explique qual pergunta ou dor o dashboard resolve. Exemplos:
 - **Modelagem:** Modelo estrela (fato + dimensões)
 - **Versionamento:** Git e GitHub
 
+## ▶️ Como executar
 
+1. Clone o repositório:
+```bash
+   git clone https://github.com/KaykyPramoshttps/BI_logistica.git
+```
 2. Abra o arquivo do dashboard na pasta `dashboard/` com a ferramenta de BI utilizada.
 3. Se necessário, atualize o caminho da fonte de dados (`data/`) nas configurações da fonte.
 4. Clique em **Atualizar** para carregar os dados.
@@ -60,7 +66,9 @@ Explique qual pergunta ou dor o dashboard resolve. Exemplos:
 
 ## 🖼 Prévia do dashboard
 
-![Dashboard Logística](images/Dash_Logistica.png)
+[![Dashboard Logística](images/Dash_Logistica.png)](https://app.powerbi.com/view?r=eyJrIjoiNjk3OGFiMGMtYjM5Yi00ZWZlLTgzYmQtMDE2ZmQxMzQ0NDA5IiwidCI6IjFkYjljZTMzLWQ0MGEtNDQzMi04MGIxLWViZDM0NGNlYWFmMCJ9)
+
+> 👆 Clique na imagem para abrir o dashboard interativo.
 
 ## 💡 Principais insights
 

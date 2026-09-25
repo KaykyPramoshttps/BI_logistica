@@ -21,11 +21,14 @@ Este projeto é um dashboard de Business Intelligence que consolida indicadores 
 
 ## 🎯 Problema de negócio
 
-Explique qual pergunta ou dor o dashboard resolve. Exemplos:
+O dashboard responde às principais perguntas de gestão logística que a empresa precisa acompanhar:
 
-- Quais rotas ou transportadoras concentram mais atrasos?
-- Quanto a empresa gasta com frete por região?
-- Como está a taxa de entregas no prazo ao longo do tempo?
+- Qual o percentual de entregas realizadas dentro do prazo e de forma completa (OTIF)?
+- Como estão evoluindo os indicadores de % no prazo e % de pedidos completos ao longo do tempo?
+- Quais são os principais motivos das ocorrências que impactam as entregas?
+- Qual área é a maior responsável pelas ocorrências registradas (comercial, logística, compras etc.)?
+- Em quais estados e cidades se concentram as ocorrências de entrega?
+- Como cada filial está performando em relação aos indicadores de prazo e completude?
 
 ## 📊 Indicadores (KPIs)
 

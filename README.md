@@ -54,11 +54,6 @@ O dashboard responde às principais perguntas de gestão logística que a empres
 
 > 👆 Clique na imagem para abrir o dashboard interativo.
 
-## 💡 Principais insights
-
-- Insight 1: descreva um achado relevante dos dados (ex.: "a região X concentra 40% dos atrasos").
-- Insight 2: ...
-- Insight 3: ...
 
 ## 👤 Autor
 
